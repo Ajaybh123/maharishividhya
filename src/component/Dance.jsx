@@ -11,6 +11,12 @@ const Dance = () => {
     const danceClasses = [
         {
             img: class1,
+            title: 'Class 7th – Board Readiness Program',
+            description:
+                'Focused on strengthening NCERT concepts, exam preparation, and project-based learning across Math, Science, English, Hindi, and Social Science.',
+        },
+        {
+            img: class1,
             title: 'Class 8th – Board Readiness Program',
             description:
                 'Focused on strengthening NCERT concepts, exam preparation, and project-based learning across Math, Science, English, Hindi, and Social Science.',
